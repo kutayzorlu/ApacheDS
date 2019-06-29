@@ -1,3 +1,8 @@
+
+### Apache DS
+    https://stackoverflow.com/questions/1560230/running-apache-ds-embedded-in-my-application
+    http://directory.apache.org/
+    
 ### https://docs.spring.io/spring-security/site/docs/3.0.x/reference/ldap.html
 
 18. LDAP Authentication
